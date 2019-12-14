@@ -1,0 +1,36 @@
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\bin\Debug\server_deneme.exe.config
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\bin\Debug\server_deneme.exe
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\bin\Debug\server_deneme.pdb
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\obj\Debug\server_deneme.Form1.resources
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\obj\Debug\server_deneme.Properties.Resources.resources
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\obj\Debug\server_deneme.csproj.GenerateResource.Cache
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\obj\Debug\server_deneme.exe
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\obj\Debug\server_deneme.pdb
+C:\Users\Efe Şencan\Documents\Visual Studio 2015\Projects\server_deneme\server_deneme\obj\Debug\server_deneme.csprojResolveAssemblyReference.cache
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\bin\Debug\server_deneme.exe.config
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\obj\Debug\server_deneme.exe
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\obj\Debug\server_deneme.pdb
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\bin\Debug\server_deneme.exe
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\bin\Debug\server_deneme.pdb
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\obj\Debug\server_deneme.csprojResolveAssemblyReference.cache
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\obj\Debug\server_deneme.Form1.resources
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\obj\Debug\server_deneme.Properties.Resources.resources
+C:\Users\Yiğit\Desktop\yigittekinalp_Tekinalp_Yigit_Step1\server\server_deneme\server_deneme\obj\Debug\server_deneme.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\bin\Debug\server_deneme.exe.config
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\obj\Debug\server_deneme.exe
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\obj\Debug\server_deneme.pdb
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\bin\Debug\server_deneme.exe
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\bin\Debug\server_deneme.pdb
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\obj\Debug\server_deneme.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\obj\Debug\server_deneme.Form1.resources
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\obj\Debug\server_deneme.Properties.Resources.resources
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step2\efesencan_Sencan_Efe_Step2\server\server_deneme\server_deneme\obj\Debug\server_deneme.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\bin\Debug\server_deneme.exe.config
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\obj\Debug\server_deneme.exe
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\obj\Debug\server_deneme.pdb
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\bin\Debug\server_deneme.exe
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\bin\Debug\server_deneme.pdb
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\obj\Debug\server_deneme.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\obj\Debug\server_deneme.Form1.resources
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\obj\Debug\server_deneme.Properties.Resources.resources
+C:\Users\User\Desktop\efesencan_Sencan_Efe_Step3\efesencan_Sencan_Efe_Step3\server\server_deneme\server_deneme\obj\Debug\server_deneme.csproj.GenerateResource.Cache
