@@ -1,7 +1,7 @@
-Social-Networking-Application
+Social-Networking-Application<br/>
 Guideline This project is made of three steps; each has different deadlines specified below;
 
-Introduction
+**Introduction**
 In this project, you are going to develop a social networking application implementing client and server modules. (i) The Server module manages message transfers, notifications and friendship relationships among the users, and (ii) the Client module behaves as a user which adds/removes friends, accepts/rejects friendship requests, sends/receives messages and receives relevant notifications.
 
 The server listens on a predefined port and accepts incoming client connections. There might be one or more clients connected to the server at the same time. Each client knows the IP address and the listening port of the server (to be entered through the Graphical User Interface (GUI)). Clients connect to the server on a corresponding port and identify themselves with their names. Server needs to keep the names of currently connected clients in order to avoid the same name to be connected more than once at a given time to the server.
@@ -38,7 +38,7 @@ Each client can send and receive textual messages at any time. If a client sends
 Each client can disconnect from the system at any time. Disconnection can be done by pressing a disconnect button on client GUI or by just closing the client window.
 If the client application is closed (even abruptly), nothing should crash! Also, the process in the operating system regarding the client should be terminated properly.
 Both connection and message transfer operations will be performed using TCP sockets.
------------------- End of Step 1 ----------------------
+**------------------ End of Step 1 ----------------------**
 
 **Project Step 2:**
 Second step of the project is built on top of the first step. In this step, you will modify previous client and server modules to add more functionalities.
@@ -57,7 +57,7 @@ The server should also keep track of the friendship relations. There must be a b
 
 As in the step 1, all of the operations must be clearly shown on the client and server GUIs.
 
------------------- end of Step 2 ----------------------
+**------------------ end of Step 2 ----------------------**
 
 **Project Step 3:**
 Third step of the project is built on top of the first and second steps. In this step of the project, remaining friendship relations are to be implemented in the application, which are (i) Removal of an existing friend and (ii) sending message to the existing friends.
